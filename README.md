@@ -5,7 +5,6 @@ Open source gmail bruteForce attack script
 ```
 # apt update && apt upgrade
 # git clone https://github.com/Hash-Nooby/gmail-bruteforce/ && cd gmail-bruteforce
-# cd gmail-bruteforce
 ```
 
 # Usage
